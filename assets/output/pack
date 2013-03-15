@@ -1,0 +1,222 @@
+
+input1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+StoneBlockTall
+  rotate: false
+  xy: 2, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+RampEast
+  rotate: false
+  xy: 2, 175
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+RampNorth
+  rotate: false
+  xy: 2, 348
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+WoodBlock
+  rotate: false
+  xy: 2, 521
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowSideWest
+  rotate: false
+  xy: 2, 694
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+WallBlockTall
+  rotate: false
+  xy: 105, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowNorth
+  rotate: false
+  xy: 208, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowNorthWest
+  rotate: false
+  xy: 311, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowWest
+  rotate: false
+  xy: 414, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowSouthEast
+  rotate: false
+  xy: 517, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+DoorTallOpen
+  rotate: false
+  xy: 620, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+Heart
+  rotate: false
+  xy: 723, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+TreeUgly
+  rotate: false
+  xy: 826, 2
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+WallBlock
+  rotate: false
+  xy: 105, 175
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowNorthEast
+  rotate: false
+  xy: 105, 348
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+RampSouth
+  rotate: false
+  xy: 105, 521
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 105, 694
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowEast
+  rotate: false
+  xy: 208, 175
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowSouth
+  rotate: false
+  xy: 208, 348
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+WindowTall
+  rotate: false
+  xy: 208, 521
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+Key
+  rotate: false
+  xy: 208, 694
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+ShadowSouthWest
+  rotate: false
+  xy: 311, 175
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+RampWest
+  rotate: false
+  xy: 414, 175
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+BlockPlain
+  rotate: false
+  xy: 517, 175
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+BlockBrick
+  rotate: false
+  xy: 631, 175
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+BlockBrown
+  rotate: false
+  xy: 745, 175
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+BlockWater
+  rotate: false
+  xy: 859, 175
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+BlockGrass
+  rotate: false
+  xy: 311, 348
+  size: 112, 144
+  orig: 112, 144
+  offset: 0, 0
+  index: -1
+TreeTall
+  rotate: false
+  xy: 2, 867
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+TreeShort
+  rotate: false
+  xy: 105, 867
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+Rock
+  rotate: false
+  xy: 208, 867
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

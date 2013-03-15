@@ -1,0 +1,6 @@
+
+Add 1 to ALL Properties Grid Number
+Change FirstGrid to "0"
+Rename packfile TILES to match Composite Image name
+Name images starting from 1: Image_1 Image_2 Image_3...
+Fix Packfile so that Images are ordered properly
